@@ -1,68 +1,42 @@
 # Essential Setup
 
-[Leia este README em português](README.pt-BR.md)
+Um **guia prático** para **simplificar** a configuração e otimização de seus sistemas e dispositivos, com **foco** em **eficiência**.
 
-A **practical guide** to **simplify** the setup and optimization of your systems and devices, focusing on **efficiency**.
+## 🔍 O Que Este Repositório Faz?
 
-## 🔍 What Does This Repository Do?
+- ⚙️ **Automatiza** a configuração inicial de dispositivos e sistemas operacionais.
+- 📦 **Organiza** aplicativos essenciais e opcionais categorizados por plataforma.
+- 📘 **Documenta** guias claros para personalizar sistemas e melhorar sua produtividade.
 
-- ⚙️ **Automates** the initial setup of devices and operating systems.
-- 📦 **Organizes** essential and optional applications categorized by platform.
-- 📜 **Documents** clear guides to personalize systems and improve productivity.
+## 👥 Para Quem É Este Repositório?
 
-## 👥 Who Is This Repository For?
+- 👩‍💻 **Desenvolvedores**: Que desejam um ambiente de trabalho otimizado para produtividade.
+- 💻 **Entusiastas de Tecnologia**: Que gostam de explorar ferramentas e personalizar dispositivos.
+- 🔄 **Usuários Com Sistema Resetado**: Perfeito para quem formatou o PC ou está configurando um dispositivo do zero.
 
-- 👩‍💻 **Developers**: Who want an optimized work environment for productivity.
-- 💻 **Tech Enthusiasts**: Who enjoy exploring tools and customizing devices.
-- 🔄 **Users Resetting Their Systems**: Perfect for those who have formatted their PC or are setting up a new device.
+## 📂 Estrutura do Repositório
 
-## 📂 Repository Structure
+- `guides/` - 📚 Guias detalhados de instalação, configuração e otimização para sistemas operacionais de desktop.
 
-- **`guides/`** - 📚 Detailed guides for installation, configuration, and optimization for desktop operating systems:
+- `essentials/` - 🎯 Listas organizadas de aplicativos essenciais e opcionais.
 
-  - `android.md`: Tips for advanced settings and optimizations for Android.
-  - `linux.md`: Complete guide for installation, optimization, and configuration for Linux.
-  - `windows.md`: Complete guide for installation, optimization, and configuration for Windows.
+- `scripts/` - 🔗 Scripts automatizados para instalação e configuração inicial de sistemas.
 
-- **`essentials/`** - 🎯 Organized lists of essential and optional applications:
+- `settings/`: ⚙️ Configurações personalizadas para softwares e ferramentas específicas.
 
-  - `android.md`: Recommended and productive apps for Android devices.
-  - `linux.md`: Essential and useful tools for Linux systems.
-  - `windows.md`: Must-have software for Windows.
+## 📖 Como Usar
 
-- **`scripts/`** - 🔗 Automated scripts for initial system setup:
-
-  - `setup-linux.sh`: Automates the installation and configuration on Linux.
-  - `setup-windows.sh`: Automates the initial setup on Windows.
-
-- **`settings/`**: ⚙️ Personalized configurations for specific software and tools:
-
-  - `bookmarks/bookmarks.md`: Essential browser links, organized.
-  - `git/`: Git aliases and configurations.
-  - `vscode/settings.json`: Personalized configuration for Visual Studio Code.
-
-## 📝 How to Use
-
-1. **Clone this repository** to your device:
+1. **Clone este repositório** para o seu dispositivo:
 
    ```bash
-   git clone https://github.com/your-username/essential-setup.git
+   git clone https://github.com/lsstomas/essential-setup.git
    cd essential-setup
    ```
 
-2. **Explore** the guides and scripts:
+2. **Explore** os guias e scripts:
 
-   - Access `guides/` for operating system setup guides.
-   - Use the scripts in `scripts/` to automate initial tasks.
+   - Acesse `guides/` para guias de configuração do sistema operacional.
+   - Use os scripts em `scripts/` para automatizar tarefas iniciais.
 
-3. **Configure** your favorite tools:
-   - Access `settings/` to apply personalized configurations (e.g., VS Code, Git, terminal).
-
-## 🌍 Contributions
-
-I appreciate contributions from the community! If you have suggestions, improvements, or find any issues, please feel free to:
-
-- Open an **issue** to discuss your ideas.
-- Submit a **pull request** to contribute directly.
-
-Let's make this project even better together!
+3. **Configure** suas ferramentas favoritas:
+   - Acesse `settings/` para aplicar configurações personalizadas (ex.: VS Code, Git, terminal).
