@@ -1,61 +1,66 @@
 # Essential Setup
 
-Um **guia prático** para **simplificar** a configuração e otimização de seus sistemas e dispositivos, com **foco** em **eficiência**.
+A **practical guide** to **simplify** the setup and optimization of your systems and devices, focusing on **efficiency**.
 
-## 🔍 O Que Este Repositório Faz?
+## 🔍 What Does This Repository Do?
 
-- ⚙️ **Automatiza** a configuração inicial de dispositivos e sistemas operacionais.
-- 📦 **Organiza** aplicativos essenciais e opcionais categorizados por plataforma.
-- 📘 **Documenta** guias claros para personalizar sistemas e melhorar sua produtividade.
+- ⚙️ **Automates** the initial setup of devices and operating systems.
+- 📦 **Organizes** essential and optional applications categorized by platform.
+- 📜 **Documents** clear guides to personalize systems and improve productivity.
 
-## 👥 Para Quem É Este Repositório?
+## 👥 Who Is This Repository For?
 
-- 👩‍💻 **Desenvolvedores**: Que desejam um ambiente de trabalho otimizado para produtividade.
-- 💻 **Entusiastas de Tecnologia**: Que gostam de explorar ferramentas e personalizar dispositivos.
-- 🔄 **Usuários Com Sistema Resetado**: Perfeito para quem formatou o PC ou está configurando um dispositivo do zero.
+- 👩‍💻 **Developers**: Who want an optimized work environment for productivity.
+- 💻 **Tech Enthusiasts**: Who enjoy exploring tools and customizing devices.
+- 🔄 **Users Resetting Their Systems**: Perfect for those who have formatted their PC or are setting up a new device.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-- **`guides/`** - 📚 Guias detalhados de instalação, configuração e otimização para sistemas operacionais de desktop:
+- **`guides/`** - 📚 Detailed guides for installation, configuration, and optimization for desktop operating systems:
 
-  - `android.md`: Dicas de configurações e otimizações avançadas para Android.
-  - `linux.md`: Guia completo de instalação, otimização e configuração para Linux.
-  - `windows.md`: Guia completo de instalação, otimização e configuração para Windows.
+  - `android.md`: Tips for advanced settings and optimizations for Android.
+  - `linux.md`: Complete guide for installation, optimization, and configuration for Linux.
+  - `windows.md`: Complete guide for installation, optimization, and configuration for Windows.
 
-- **`essentials/`** - 🎯 Listas organizadas de aplicativos essenciais e opcionais:
+- **`essentials/`** - 🎯 Organized lists of essential and optional applications:
 
-  - `android.md`: Aplicativos recomendados e produtivos para dispositivos Android.
-  - `linux.md`: Ferramentas essenciais e úteis para sistemas Linux.
-  - `windows.md`: Softwares indispensáveis para Windows.
+  - `android.md`: Recommended and productive apps for Android devices.
+  - `linux.md`: Essential and useful tools for Linux systems.
+  - `windows.md`: Must-have software for Windows.
 
-- **`scripts/`** - 🔗 Scripts automatizados para instalação e configuração inicial de sistemas:
+- **`scripts/`** - 🔗 Automated scripts for initial system setup:
 
-  - `setup-linux.sh`: Automatiza a instalação e configuração no Linux.
-  - `setup-windows.sh`: Automatiza a configuração inicial no Windows.
+  - `setup-linux.sh`: Automates the installation and configuration on Linux.
+  - `setup-windows.sh`: Automates the initial setup on Windows.
 
-- **`settings/`**: ⚙️ Configurações personalizadas para softwares e ferramentas específicas:
+- **`settings/`**: ⚙️ Personalized configurations for specific software and tools:
 
-  - `bookmarks/bookmarks.md`: Links essenciais para um browser, de forma organizada.
-  - `git/`: Configurações e aliases para Git.
-  - `vscode/settings.json`: Configuração personalizada para o Visual Studio Code.
+  - `bookmarks/bookmarks.md`: Essential browser links, organized.
+  - `git/`: Git aliases and configurations.
+  - `vscode/settings.json`: Personalized configuration for Visual Studio Code.
 
-## 📖 Como Usar
+## 📝 How to Use
 
-1. **Clone este repositório** para o seu dispositivo:
+1. **Clone this repository** to your device:
 
    ```bash
-   git clone https://github.com/seu-usuario/essential-setup.git
+   git clone https://github.com/your-username/essential-setup.git
    cd essential-setup
    ```
 
-2. **Explore** os guias e scripts:
+2. **Explore** the guides and scripts:
 
-   - Acesse `guides/` para guias de configuração do sistema operacional.
-   - Use os scripts em `scripts/` para automatizar tarefas iniciais.
+   - Access `guides/` for operating system setup guides.
+   - Use the scripts in `scripts/` to automate initial tasks.
 
-3. **Configure** suas ferramentas favoritas:
-   - Acesse `settings/` para aplicar configurações personalizadas (ex.: VS Code, Git, terminal).
+3. **Configure** your favorite tools:
+   - Access `settings/` to apply personalized configurations (e.g., VS Code, Git, terminal).
 
-## 🌍 Contribuições
+## 🌍 Contributions
 
-Contribuições são bem-vindas! Se tiver sugestões ou melhorias, abra uma issue ou envie um pull request.
+I appreciate contributions from the community! If you have suggestions, improvements, or find any issues, please feel free to:
+
+- Open an **issue** to discuss your ideas.
+- Submit a **pull request** to contribute directly.
+
+Let's make this project even better together!
