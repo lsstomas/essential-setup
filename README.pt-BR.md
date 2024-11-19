@@ -1,5 +1,7 @@
 # Essential Setup
 
+[Read this README in english](README.md)
+
 Um **guia prático** para **simplificar** a configuração e otimização de seus sistemas e dispositivos, com **foco** em **eficiência**.
 
 ## 🔍 O Que Este Repositório Faz?

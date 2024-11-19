@@ -1,5 +1,7 @@
 # Essential Setup
 
+[Leia este README em português](README.pt-BR.md)
+
 A **practical guide** to **simplify** the setup and optimization of your systems and devices, focusing on **efficiency**.
 
 ## 🔍 What Does This Repository Do?
