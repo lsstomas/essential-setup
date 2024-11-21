@@ -1,5 +1,9 @@
 # Windows
 
+## Remover Bloatwares
+
+- Selecionar "Inglês (Mundo)" ao formatar para evitar bloatwares
+
 ## O que fazer após formatar?
 
 - Atualizar sistema (Windows Update)
@@ -40,3 +44,10 @@
 - Estado P2 da CUDA FORÇADO DESLIGADO
 
 [Video sobre](https://www.youtube.com/watch?v=wxY2roIWvAs)
+
+## Outros
+
+unnatend.xml 
+criar instalacao automatizada
+
+winstall para pegar id dos pacotes de apps
