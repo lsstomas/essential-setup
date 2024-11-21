@@ -4,39 +4,16 @@ Um **guia prático** para **simplificar** a configuração e otimização de seu
 
 ## 🔍 O Que Este Repositório Faz?
 
-- ⚙️ **Automatiza** a configuração inicial de dispositivos e sistemas operacionais.
-- 📦 **Organiza** aplicativos essenciais e opcionais categorizados por plataforma.
-- 📘 **Documenta** guias claros para personalizar sistemas e melhorar sua produtividade.
-
-## 👥 Para Quem É Este Repositório?
-
-- 👩‍💻 **Desenvolvedores**: Que desejam um ambiente de trabalho otimizado para produtividade.
-- 💻 **Entusiastas de Tecnologia**: Que gostam de explorar ferramentas e personalizar dispositivos.
-- 🔄 **Usuários Com Sistema Resetado**: Perfeito para quem formatou o PC ou está configurando um dispositivo do zero.
+- ⚙️ **Automatiza** as configurações iniciais dos meus dispositivos e sistemas operacionais.
+- 📦 **Centraliza** os aplicativos e ferramentas que uso, organizados por plataforma.
+- 📘 **Documenta** o passo a passo para personalizar e otimizar meus sistemas, do jeito que eu gosto.
 
 ## 📂 Estrutura do Repositório
 
-- `guides/` - 📚 Guias detalhados de instalação, configuração e otimização para sistemas operacionais de desktop.
+- `essentials/` - 🎯 Listas com os aplicativos que considero essenciais para meus dispositivos.
 
-- `essentials/` - 🎯 Listas organizadas de aplicativos essenciais e opcionais.
+- `guides/` - 📚 Meus guias pessoais de configuração e otimização para sistemas operacionais.
 
-- `scripts/` - 🔗 Scripts automatizados para instalação e configuração inicial de sistemas.
+- `scripts/` - 🔗 Scripts que automatizam tarefas que eu faço com frequência.
 
-- `settings/`: ⚙️ Configurações personalizadas para softwares e ferramentas específicas.
-
-## 📖 Como Usar
-
-1. **Clone este repositório** para o seu dispositivo:
-
-   ```bash
-   git clone https://github.com/lsstomas/essential-setup.git
-   cd essential-setup
-   ```
-
-2. **Explore** os guias e scripts:
-
-   - Acesse `guides/` para guias de configuração do sistema operacional.
-   - Use os scripts em `scripts/` para automatizar tarefas iniciais.
-
-3. **Configure** suas ferramentas favoritas:
-   - Acesse `settings/` para aplicar configurações personalizadas (ex.: VS Code, Git, terminal).
+- `settings/`: ⚙️ Minhas configurações específicas para ferramentas e softwares que uso.
