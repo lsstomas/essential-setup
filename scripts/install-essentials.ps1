@@ -27,7 +27,7 @@ function Install-Application {
         Write-Host "$AppName is already installed. Skipping..." -ForegroundColor Yellow
     } else {
         Write-Host "Installing $AppName..." -ForegroundColor Cyan
-        winget install --id $AppId --silent --accept-package-agreements --accept-source-agreements
+        winget install --id=$AppId --silent --accept-package-agreements --accept-source-agreements
         if ($?) {
             Write-Host "$AppName installed successfully!" -ForegroundColor Green
         } else {
