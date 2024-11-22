@@ -7,4 +7,4 @@
 sudo apt update && sudo apt upgrade -y
 
 # Instalar pacotes essenciais
-sudo apt install -y git curl wget zsh vim
+sudo apt install -y git curl wget

@@ -6,112 +6,113 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 
 ### 🌍 Browsers
 
-- [**Arc**](https://arc.net/): Navegador rápido e seguro com bloqueador de anúncios.
-- [**Brave**](https://brave.com/): Navegador rápido e seguro com bloqueador de anúncios.
-- [**Firefox**](https://www.mozilla.org/firefox/): Navegador rápido e seguro para a internet.
-- [**Google Chrome**](https://www.google.com/chrome/): Navegador rápido e seguro para a internet.
-- [**Zen**](https://zen-browser.app/): Navegador focado em simplicidade.
+- [**Arc**](https://arc.net/): Navegador inovador com foco em multitarefas e personalização avançada.
+- [**Brave**](https://brave.com/): Navegador rápido, privado e com bloqueador de anúncios integrado.
+- [**Firefox**](https://www.mozilla.org/firefox/): Navegador confiável com foco em privacidade e extensões poderosas.
+- [**Google Chrome**](https://www.google.com/chrome/): Navegador popular conhecido por sua velocidade e compatibilidade.
+- [**Tor Browser**](https://www.torproject.org/): Navegador focado em privacidade e anonimato online.
+- [**Zen**](https://zen-browser.app/): Navegador minimalista, projetado para uma experiência de navegação simples e descomplicada.
 
-### 🌐 Redes Sociais
+### 💬 Redes Sociais
 
-- [**Instagram**](https://www.instagram.com/): Aplicativo de mídia social.
-- [**LinkedIn**](https://www.linkedin.com/): Rede social profissional.
-- [**Telegram**](https://telegram.org/): Aplicativo de mensagens rápido e seguro.
-- [**WhatsApp Beta**](https://www.whatsapp.com/): Versão beta do aplicativo de mensagens popular.
+- [**Instagram**](https://www.instagram.com/): Plataforma para compartilhar fotos, vídeos e interagir com amigos.
+- [**LinkedIn**](https://www.linkedin.com/): Rede social focada em conexões profissionais e oportunidades de carreira.
+- [**Telegram**](https://telegram.org/): Mensageiro rápido e seguro com suporte para grandes grupos e bots.
+- [**WhatsApp Beta**](https://www.whatsapp.com/): Versão experimental do popular mensageiro para testes de novos recursos.
 
 ### 📅 Produtividade
 
-- [**Notepads App**](https://apps.microsoft.com/detail/9nhl4nsc67wm?ocid=pdpshare&hl=en-us&gl=US): Editor de texto minimalista e rápido.
-- [**Notion**](https://www.notion.so/): Ferramenta para anotações e gerenciamento de projetos.
-- [**Notion Calendar**](https://www.notion.so/): Extensão de calendário para o Notion.
-- [**Obsidian**](https://obsidian.md/): Aplicativo de notas baseado em Markdown.
+- [**Notepads App**](https://apps.microsoft.com/detail/9nhl4nsc67wm?ocid=pdpshare&hl=en-us&gl=US): Editor de texto minimalista, ideal para anotações rápidas.
+- [**Notion**](https://www.notion.so/): Aplicativo tudo-em-um para organização pessoal e de equipes.
+- [**Notion Calendar**](https://www.notion.so/): Extensão para visualização e gerenciamento de eventos no Notion.
+- [**Obsidian**](https://obsidian.md/): Editor de texto em Markdown com links entre notas para criar bases de conhecimento.
 
-### 🎬 Mídia e Entretenimento
+### 🎬 Mídia
 
-- [**Figma**](https://www.figma.com/): Ferramenta de design colaborativo.
-- [**HandBrake**](https://handbrake.fr/): Conversor de vídeos gratuito e de código aberto.
-- [**MPC-HC**](https://mpc-hc.org/): Reprodutor de vídeo leve e eficiente.
-- [**Spotify**](https://www.spotify.com/): Serviço de streaming de músicas e podcasts.
-- [**VLC Media Player**](https://www.videolan.org/vlc/): Reprodutor de mídia versátil e de código aberto.
+- [**HandBrake**](https://handbrake.fr/): Conversor de vídeos poderoso com suporte para vários formatos.
+- [**MPC-HC**](https://mpc-hc.org/): Reprodutor de mídia leve e versátil para Windows.
+- [**Spotify**](https://www.spotify.com/): Serviço de streaming para músicas, podcasts e playlists personalizadas.
+- [**VLC Media Player**](https://www.videolan.org/vlc/): Reprodutor de mídia compatível com quase todos os formatos.
 
-### 🖼️ Estilo e Aparência
+### 🖼️ Imagens
 
-- [**ElevenClock**](https://apps.microsoft.com/detail/xp89hz8svwtt0m?hl=en-us&gl=us): Um relógio personalizado para o Windows.
-- [**ExplorerPatcher**](https://github.com/valinet/ExplorerPatcher): Melhorias no funcionamento do Windows.
-- [**Files**](https://github.com/files-community/Files?tab=readme-ov-file): Explorador de arquivos extremamente rápido e moderno.
-- [**Mica For Everyone**](https://github.com/MicaForEveryone/MicaForEveryone): Customização do sistema de backdrop no Windows.
-- [**Mica For Everyone (ExplorerFrame)**](https://github.com/MicaForEveryone/ExplorerFrame): Customização do sistema de backdrop no Windows.
-- [**Rainmeter**](https://www.rainmeter.net/): Ferramenta de personalização de desktop.
-- [**Rectify11**](https://github.com/Rectify11/Installer): Melhoria na consistência do Windows.
-- [**RoundedTB**](https://roundedtb.com/): Ferramenta para arrendondar a barra de tarefas do Windows.
-- [**TranslucentTB**](https://apps.microsoft.com/detail/9pf4kz2vn4w9?ocid=pdpshare&hl=en-us&gl=US): Ferramenta para personalizar a barra de tarefas do Windows.
-- [**Windhawk**](https://windhawk.net/): Ferramenta para customizar o Windows.
+- [**Figma**](https://www.figma.com/): Plataforma de design colaborativo usada por equipes em tempo real.
+- [**GIMP**](https://www.gimp.org/): Editor de imagens gratuito com ferramentas avançadas de edição gráfica.
+- [**ShareX**](https://getsharex.com/): Ferramenta robusta para capturas de tela e gravação de tela.
+- [**Upscayl**](https://github.com/upscayl/upscayl): Ferramenta baseada em IA para aumentar a qualidade de imagens.
 
-### ⚙️ Otimização e Gestão do Sistema
+### 🗂️ Documentos
 
-- [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet): Gerenciador de áudio avançado para Windows.
-- [**EaseUS Data Recovery Wizard**](https://br.easeus.com/data-recovery-software/data-recovery-wizard-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-drw-refer): Ferramenta de recuperação de dados.
-- [**EaseUS Partition Master**](https://br.easeus.com/partition-manager/partition-master-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-epm): Gerenciador de partições de disco.
-- [**Everything**](https://www.voidtools.com/): Ferramenta extremamente rápida para busca de arquivos no Windows.
-- [**Microsoft PC Manager**](https://apps.microsoft.com/detail/9pm860492szd?ocid=pdpshare&hl=en-us&gl=US): Ferramenta para gerenciar o PC.
-- [**Microsoft PowerToys**](https://github.com/microsoft/PowerToys): Conjunto de utilitários para aprimorar a experiência no Windows.
-- [**WizTree**](https://wiztreefree.com/): Ferramenta para visualizar o uso de espaço em disco.
+- [**Adobe Acrobat**](https://www.adobe.com/acrobat/): Aplicativo líder para leitura e edição de arquivos PDF.
+- [**LibreOffice**](https://www.libreoffice.org/download/download-libreoffice/): Alternativa gratuita ao Microsoft Office com ferramentas completas de escritório.
+- [**LiquidText PDF**](https://www.liquidtext.net/): Ferramenta de anotação e organização avançada de PDFs.
 
-### 💡 Aplicativos Úteis
+### 🎨 Personalização do Sistema
 
-- [**Adobe Acrobat**](https://www.adobe.com/acrobat/): Leitor e editor de PDF.
-- [**Bitwarden**](https://bitwarden.com/): Gerenciador de senhas seguro e de código aberto.
-- [**LiquidText PDF**](https://www.liquidtext.net/): Aplicativo para anotações em PDF.
-- [**ShareX**](https://getsharex.com/): Ferramenta para captura de tela e gravação.
-- [**7-Zip**](https://www.7-zip.org/): Compactador e descompactador de arquivos.
-- [**WinRAR**](https://www.win-rar.com/): Compactador e descompactador de arquivos.
-- [**uTorrent**](https://www.utorrent.com/): Cliente de torrent leve e eficiente.
+- [**ExplorerPatcher**](https://github.com/valinet/ExplorerPatcher): Modificador para melhorar e personalizar o comportamento do Windows Explorer.
+- [**Files**](https://github.com/files-community/Files?tab=readme-ov-file): Explorador de arquivos moderno e altamente personalizável.
+- [**Mica For Everyone**](https://github.com/MicaForEveryone/MicaForEveryone): Adiciona transparências elegantes ao Windows.
+- [**Mica For Everyone (ExplorerFrame)**](https://github.com/MicaForEveryone/ExplorerFrame): Integra transparências no Windows Explorer.
+- [**Rectify11**](https://github.com/Rectify11/Installer): Oferece consistência visual para o Windows 11.
+- [**RoundedTB**](https://roundedtb.com/): Personaliza bordas arredondadas na barra de tarefas.
+- [**TranslucentTB**](https://apps.microsoft.com/detail/9pf4kz2vn4w9?ocid=pdpshare&hl=en-us&gl=US): Torna a barra de tarefas transparente ou com efeitos de gradiente.
+- [**Windhawk**](https://windhawk.net/): Ferramenta para aplicar mods ao Windows de forma segura.
 
-### 🧠 Inteligência Artificial
+### ⚙️ Gestão do Sistema
 
-- [**ChatGPT**](https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl=pt-br&gl=BR): Aplicativo oficial do ChatGPT.
-- [**Claude**](https://claude.ai/download): Aplicativo oficial do Claude AI.
-- [**Upscayl**](https://github.com/upscayl/upscayl): Ferramenta para melhorar a qualidade de imagens usando IA.
+- [**EaseUS Data Recovery Wizard**](https://br.easeus.com/data-recovery-software/data-recovery-wizard-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-drw-refer): Recupera arquivos deletados ou perdidos de discos rígidos.
+- [**EaseUS Partition Master**](https://br.easeus.com/partition-manager/partition-master-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-epm): Gerencia e redimensiona partições de disco de maneira segura.
+- [**Microsoft PC Manager**](https://apps.microsoft.com/detail/9pm860492szd?ocid=pdpshare&hl=en-us&gl=US): Otimiza a performance e organiza recursos do sistema.
+- [**Microsoft PowerToys**](https://github.com/microsoft/PowerToys): Conjunto de utilitários avançados para produtividade no Windows.
+- [**Winaero Tweaker**](https://winaerotweaker.com/): Ajusta configurações ocultas do Windows.
+- [**WizTree**](https://wiztreefree.com/): Analisa e exibe o uso de espaço no disco de forma visual.
+
+### 🛠️ Utilitários Gerais
+
+- [**7-Zip**](https://www.7-zip.org/): Compactador de arquivos com alta eficiência e suporte para múltiplos formatos.
+- [**Bitwarden**](https://bitwarden.com/): Gerenciador de senhas seguro com sincronização em nuvem.
+- [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet): Controle avançado de volume e dispositivos de áudio no Windows.
+- [**Everything**](https://www.voidtools.com/): Busca instantânea e eficiente por arquivos no Windows.
+- [**Flow Launcher**](https://www.flowlauncher.com/): Launcher para aplicativos e busca universal no sistema.
+- [**QuickLook**](https://www.microsoft.com/store/apps/9nv4bs3l1h4s): Visualização rápida de arquivos com a barra de espaço.
+- [**Revo Uninstaller**](https://www.revouninstaller.com/): Remove programas e limpa resíduos do sistema.
+- [**uTorrent**](https://www.utorrent.com/):  Cliente de torrent leve e fácil de usar.
+- [**WinRAR**](https://www.win-rar.com/): Compactador versátil com suporte a formatos populares.
 
 ### 🎮 Gaming
 
-- [**Discord**](https://discord.com/): Plataforma de comunicação para comunidades.
-- [**Epic Games Store**](https://www.epicgames.com/store/en-US/): Plataforma de distribuição digital de jogos.
-- [**GOG Galaxy**](https://www.gog.com/galaxy): Plataforma de jogos e gerenciamento de biblioteca.
-- [**Steam**](https://store.steampowered.com/): Plataforma de jogos.
+- [**Discord**](https://discord.com/): Comunicação por voz e texto para comunidades e jogos.
+- [**Epic Games Store**](https://www.epicgames.com/store/en-US/): Loja digital com jogos gratuitos e exclusivos.
+- [**GOG Galaxy**](https://www.gog.com/galaxy): Gerenciador de bibliotecas de jogos para várias plataformas.
+- [**Steam**](https://store.steampowered.com/): Plataforma líder para jogos e comunidade gamer.
 
 ## 💼 Aplicativos (Trabalho)
 
-### 🛠️ Ferramentas Úteis
+### 💻 Ferramentas de Desenvolvimento
 
-- [**Visual Studio Code**](https://code.visualstudio.com/): Editor de código leve e extensível.
-- [**DBeaver**](https://dbeaver.io/): Ferramenta de gerenciamento de banco de dados.
-- [**Insomnia**](https://insomnia.rest/): Ferramenta para teste de APIs.
-- [**Postman**](https://www.postman.com/): Plataforma para desenvolvimento e teste de APIs.
+- [**Visual Studio Code**](https://code.visualstudio.com/): Editor de código personalizável  e extensível.
+- [**DBeaver**](https://dbeaver.io/): Ferramenta para  gerenciamento de banco de dados.
+- [**Insomnia**](https://insomnia.rest/): Plataforma simples para testar e depurar APIs.
+- [**Postman**](https://www.postman.com/): Ferramenta poderosa para desenvolvimento e colaboração em APIs.
+- [**Termius**](https://www.termius.com/): Cliente SSH/SFTP para conexão e gerenciamento de servidores.
+- [**WinMerge**](https://winmerge.org/): Compara e mescla arquivos de forma visual.
+- [**WinSCP**](https://winscp.net/): Cliente FTP/SFTP para transferências rápidas e seguras.
 
-### 💻 Terminal
+### 🌐 Virtualização
 
-- [**Fluent Terminal**](https://apps.microsoft.com/detail/9p2krlmfxf9t?ocid=pdpshare&hl=en-us&gl=US): Terminal moderno e poderoso para usuários do Windows.
-- [**Termius**](https://www.termius.com/): Cliente SSH e SFTP.
-- [**Windows Terminal**](https://apps.microsoft.com/detail/9n0dx20hk701?hl=pt-br&gl=BR): Terminal moderno, rápido, eficiente e poderoso para usuários do Windows.
-- [**WinSCP**](https://winscp.net/): Cliente SFTP e FTP para Windows.
-
-### Virtualização
-
-- [**VirtualBox**](https://www.virtualbox.org/): Virtualizador de sistemas operacionais.
-- [**VMware Workstation Player**](https://www.vmware.com/products/workstation-player.html): Virtualizador de sistemas operacionais.
-- [**Docker Desktop**](https://www.docker.com/products/docker-desktop/): Plataforma de contêiner para desenvolvimento.
-- [**WSL 2**](https://docs.microsoft.com/windows/wsl/): Subsistema do Windows para Linux.
-- [**WSL Studio**](https://apps.microsoft.com/detail/9plsjr4tg2gq?ocid=pdpshare&hl=en-us&gl=US): Interface gráfica para o WSL.
+- [**VirtualBox**](https://www.virtualbox.org/): Virtualizador de sistemas operacionais gratuito.
+- [**VMware Workstation Player**](https://www.vmware.com/products/workstation-player.html): Ferramenta de virtualização com performance avançada.
+- [**Docker Desktop**](https://www.docker.com/products/docker-desktop/): Gerencie e execute contêineres localmente.
+- [**WSL 2**](https://docs.microsoft.com/windows/wsl/): Execute distribuições Linux diretamente no Windows.
 
 ### ⚙️ Ambientes e Runtimes
 
-- [**Git**](https://git-scm.com/): Sistema de controle de versão.
-- [**Node.js**](https://nodejs.org/): Ambiente JavaScript para desenvolvimento.
+- [**Git**](https://git-scm.com/): Sistema de controle de versão essencial para desenvolvedores.
+- [**Node.js**](https://nodejs.org/): Ambiente para execução de JavaScript no backend.
 - [**NVM**](https://github.com/coreybutler/nvm-windows): Gerenciador de versões do Node.js.
-- [**Python**](https://www.python.org/): Linguagem de programação popular para diversos propósitos.
+- [**Python**](https://www.python.org/): Linguagem de programação versátil para múltiplos usos.
 
-### 💬 Comunicação
+### 📞 Comunicação
 
 - [**Gather**](https://www.gather.town/): Ferramenta para reuniões e interação virtual.
-- [**Slack**](https://slack.com/): Plataforma de comunicação para equipes.
+- [**Slack**](https://slack.com/): Ferramenta de colaboração e comunicação para equipes.
