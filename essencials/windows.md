@@ -1,4 +1,4 @@
-# Softwares Essenciais Para Windows
+# Windows Essential Softwares
 
 Este documento lista todos os softwares essenciais e recomendados para um ambiente produtivo no Windows.
 
@@ -68,16 +68,23 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 - [**Winaero Tweaker**](https://winaerotweaker.com/): Ajusta configurações ocultas do Windows.
 - [**WizTree**](https://wiztreefree.com/): Analisa e exibe o uso de espaço no disco de forma visual.
 
+### Segurança
+
+- [**Addy.io**](https://addy.io/): Gerador de endereços de e-mail descartáveis para proteger a privacidade.
+- [**Bitwarden**](https://bitwarden.com/): Gerenciador de senhas seguro com sincronização em nuvem.
+- [**Fing Desktop**](https://www.fing.com/desktop/): Ferramenta de segurança e monitoramento de rede.
+- [**NextDNS**](https://nextdns.io/): Serviço de DNS seguro e privado para proteger a navegação na web.
+- [**Portmaster**](https://safing.io/): Firewall gratuito e de código aberto para proteger a privacidade online.
+
 ### 🛠️ Utilitários Gerais
 
 - [**7-Zip**](https://www.7-zip.org/): Compactador de arquivos com alta eficiência e suporte para múltiplos formatos.
-- [**Bitwarden**](https://bitwarden.com/): Gerenciador de senhas seguro com sincronização em nuvem.
 - [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet): Controle avançado de volume e dispositivos de áudio no Windows.
 - [**Everything**](https://www.voidtools.com/): Busca instantânea e eficiente por arquivos no Windows.
 - [**Flow Launcher**](https://www.flowlauncher.com/): Launcher para aplicativos e busca universal no sistema.
 - [**QuickLook**](https://www.microsoft.com/store/apps/9nv4bs3l1h4s): Visualização rápida de arquivos com a barra de espaço.
 - [**Revo Uninstaller**](https://www.revouninstaller.com/): Remove programas e limpa resíduos do sistema.
-- [**uTorrent**](https://www.utorrent.com/):  Cliente de torrent leve e fácil de usar.
+- [**uTorrent**](https://www.utorrent.com/): Cliente de torrent leve e fácil de usar.
 - [**WinRAR**](https://www.win-rar.com/): Compactador versátil com suporte a formatos populares.
 
 ### 🎮 Gaming
@@ -91,8 +98,8 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 
 ### 💻 Ferramentas de Desenvolvimento
 
-- [**Visual Studio Code**](https://code.visualstudio.com/): Editor de código personalizável  e extensível.
-- [**DBeaver**](https://dbeaver.io/): Ferramenta para  gerenciamento de banco de dados.
+- [**Visual Studio Code**](https://code.visualstudio.com/): Editor de código personalizável e extensível.
+- [**DBeaver**](https://dbeaver.io/): Ferramenta para gerenciamento de banco de dados.
 - [**Insomnia**](https://insomnia.rest/): Plataforma simples para testar e depurar APIs.
 - [**Postman**](https://www.postman.com/): Ferramenta poderosa para desenvolvimento e colaboração em APIs.
 - [**Termius**](https://www.termius.com/): Cliente SSH/SFTP para conexão e gerenciamento de servidores.

@@ -1,30 +1,27 @@
-# Windows
+# Windows Essential Guides
 
-## Remover Bloatwares
+## Chris Titus Tech's Windows Utility
 
-- Selecionar "Inglês (Mundo)" ao formatar para evitar bloatwares
+`irm "https://christitus.com/win" | iex`
 
-## O que fazer após formatar?
+- [**Windows Utility Improved for 2024**](https://www.youtube.com/watch?v=5_AaHXrelTE) - Chris Titus Tech
+- [**New Windows Tool and MicroWin 5 Minute Install**](https://www.youtube.com/watch?v=92SM8Az5QVM) - Chris Titus Tech
 
-- Atualizar sistema (Windows Update)
-- Atualizar apps nativos (Microsoft Store)
-  - `winget upgrade --all`
-- Rectify11
-- Instalação de drivers (APENAS NO SITE DA FABRICANTE)
-- Configurações e otimização do sistema
-- Instalação de softwares (SCRIPT)
-- Fixar pastas no acesso rápido
-- Habilitar visualização de extensões de arquivos
-- Configurar para o startup do explorador de arquivos abrir no 'Início'
-- Configurações de Modos de exibição:
-  - Iniciar janelas de pastas em um processo separado
-  - Restaurar janelas de pastas anteriores no logon
-- Aplicativos padrão
-- Opções de conta: aplicativos reiniciáveis
-- Região: USA (traz benefícios)
-- Habilitar opção de finalizar tarefas
-- Configurar horário ativo
-- Aplicativos de inicialização
+## Formatação e Instalação
+
+- [**Você nunca mais vai querer instalar o Windows de outra forma!**](https://www.youtube.com/watch?v=JzZM0h8_8T8) - Diolinux
+- [**FORMATANDO E OTIMIZANDO O WINDOWS 10...**](https://www.youtube.com/watch?v=H0tVZtcckQI&list=PL-XVOHQfzk3jkxnun2cTYShMkqNWqVxrp&index=7) - Tito Tech
+- [**FORMATANDO E OTIMIZANDO O WINDOWS 11...**](https://www.youtube.com/watch?v=rTbFY1mVGDA&list=PL-XVOHQfzk3jkxnun2cTYShMkqNWqVxrp&index=6) - Tito Tech
+- [**TUTORIAL COMPLETO OTIMIZANDO E FORMATANDO WINDOWS 10...**](https://www.youtube.com/watch?v=EzMxyxrT-rQ) - Tito Tech
+
+## Configuração e Otimização
+
+- [**GUIA COMPLETO: O que fazer APÓS FORMATAR o Windows?**](https://www.youtube.com/watch?v=wxY2roIWvAs) - Canal WINchester
+- [**How PROS Optimize Windows For FPS Boost (Optimization Guide)**](https://www.youtube.com/watch?v=eSebSEeejOM) - Codelife
+- [**DICAS PARA RESOLVER PROBLEMAS E DEFEITOS NO SEU PC - VEJA COMO DIAGNOSTICAR**](https://www.youtube.com/watch?v=HZOGmQsU63o) - Tito Tech
+- [**MSI AFTERBURNER - MONITORE PROCESSADOR E PLACA DE VIDEO...**](https://www.youtube.com/watch?v=ttNruSuGKgE) - Tito Tech
+- [**OTIMIZANDO O RYZEN R5 8600G NA B650M ASROCK - MAIS FPS DE GRAÇA**](https://www.youtube.com/watch?v=5qRkHgaVULQ) - Tito Tech
+- [**2024 Ultimate Windows Gaming Performance Optimization**](https://www.youtube.com/watch?v=Nnb5WNdQt5M) - TroubleChute
 
 ## Otimização para Jogos
 
@@ -43,11 +40,9 @@
 - Desativar aceleração gráfica em aplicativos
 - Estado P2 da CUDA FORÇADO DESLIGADO
 
-[Video sobre](https://www.youtube.com/watch?v=wxY2roIWvAs)
-
 ## Outros
 
-unnatend.xml 
+unnatend.xml
 criar instalacao automatizada
 
 winstall para pegar id dos pacotes de apps
