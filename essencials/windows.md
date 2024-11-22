@@ -44,6 +44,7 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 ### 🗂️ Documentos
 
 - [**Adobe Acrobat**](https://www.adobe.com/acrobat/): Aplicativo líder para leitura e edição de arquivos PDF.
+- [**Google Drive**](https://www.google.com/drive/download/): Aplicativo para sincronização e acesso ao Google Drive diretamente do computador.
 - [**LibreOffice**](https://www.libreoffice.org/download/download-libreoffice/): Alternativa gratuita ao Microsoft Office com ferramentas completas de escritório.
 - [**LiquidText PDF**](https://www.liquidtext.net/): Ferramenta de anotação e organização avançada de PDFs.
 
