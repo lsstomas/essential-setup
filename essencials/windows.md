@@ -64,11 +64,10 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 - [**EaseUS Data Recovery Wizard**](https://br.easeus.com/data-recovery-software/data-recovery-wizard-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-drw-refer): Recupera arquivos deletados ou perdidos de discos rígidos.
 - [**EaseUS Partition Master**](https://br.easeus.com/partition-manager/partition-master-free.html?utm_source=canalwinchester&utm_medium=youtubevideo&utm_campaign=bella-202402-epm): Gerencia e redimensiona partições de disco de maneira segura.
 - [**Microsoft PC Manager**](https://apps.microsoft.com/detail/9pm860492szd?ocid=pdpshare&hl=en-us&gl=US): Otimiza a performance e organiza recursos do sistema.
-- [**Microsoft PowerToys**](https://github.com/microsoft/PowerToys): Conjunto de utilitários avançados para produtividade no Windows.
 - [**Winaero Tweaker**](https://winaerotweaker.com/): Ajusta configurações ocultas do Windows.
 - [**WizTree**](https://wiztreefree.com/): Analisa e exibe o uso de espaço no disco de forma visual.
 
-### Segurança
+### 🔒 Segurança
 
 - [**Addy.io**](https://addy.io/): Gerador de endereços de e-mail descartáveis para proteger a privacidade.
 - [**Bitwarden**](https://bitwarden.com/): Gerenciador de senhas seguro com sincronização em nuvem.
@@ -82,8 +81,10 @@ Este documento lista todos os softwares essenciais e recomendados para um ambien
 - [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet): Controle avançado de volume e dispositivos de áudio no Windows.
 - [**Everything**](https://www.voidtools.com/): Busca instantânea e eficiente por arquivos no Windows.
 - [**Flow Launcher**](https://www.flowlauncher.com/): Launcher para aplicativos e busca universal no sistema.
+- [**Microsoft PowerToys**](https://github.com/microsoft/PowerToys): Conjunto de utilitários avançados para produtividade no Windows.
 - [**QuickLook**](https://www.microsoft.com/store/apps/9nv4bs3l1h4s): Visualização rápida de arquivos com a barra de espaço.
 - [**Revo Uninstaller**](https://www.revouninstaller.com/): Remove programas e limpa resíduos do sistema.
+- [**Twinkle Tray**](https://twinkletray.com/): Controle de brilho dos monitores.
 - [**uTorrent**](https://www.utorrent.com/): Cliente de torrent leve e fácil de usar.
 - [**WinRAR**](https://www.win-rar.com/): Compactador versátil com suporte a formatos populares.
 
